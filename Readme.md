@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GridControlOverride.cs](./CS/MultiSelectColumnCustomization/CustomGridControl/GridControlOverride.cs) (VB: [GridControlOverride.vb](./VB/MultiSelectColumnCustomization/CustomGridControl/GridControlOverride.vb))
+* [GridInfoRegistratorOverride.cs](./CS/MultiSelectColumnCustomization/CustomGridControl/GridInfoRegistratorOverride.cs) (VB: [GridInfoRegistratorOverride.vb](./VB/MultiSelectColumnCustomization/CustomGridControl/GridInfoRegistratorOverride.vb))
+* [GridViewOverride.cs](./CS/MultiSelectColumnCustomization/CustomGridControl/GridViewOverride.cs) (VB: [GridViewOverride.vb](./VB/MultiSelectColumnCustomization/CustomGridControl/GridViewOverride.vb))
+* [MultiSelectColumnCustomizationListBox.cs](./CS/MultiSelectColumnCustomization/CustomGridControl/MultiSelectColumnCustomizationListBox.cs) (VB: [MultiSelectColumnCustomizationListBox.vb](./VB/MultiSelectColumnCustomization/CustomGridControl/MultiSelectColumnCustomizationListBox.vb))
+* [MultiSelectCustomizationForm.cs](./CS/MultiSelectColumnCustomization/CustomGridControl/MultiSelectCustomizationForm.cs) (VB: [MultiSelectCustomizationForm.vb](./VB/MultiSelectColumnCustomization/CustomGridControl/MultiSelectCustomizationForm.vb))
+* [Form1.cs](./CS/MultiSelectColumnCustomization/Form1.cs) (VB: [Form1.vb](./VB/MultiSelectColumnCustomization/Form1.vb))
+<!-- default file list end -->
 # How to create custom column chooser allowing column multi select
 
 
