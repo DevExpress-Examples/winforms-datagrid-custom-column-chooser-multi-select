@@ -6,7 +6,7 @@
 
 # Data Grid for Windows Forms - How to create custom Column Chooser that supports multiple column selection using check boxes
 
-This example creates a [Grid Control](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.GridControl)'s descendant to implement a custom Column Chooser. This Column Chooser displays check marks for each column. Users can select columns, and then click a custom `Add checked columns to grid` button to display the selected columns in the grid.
+This example creates a [Grid Control](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.GridControl)'s descendant to implement a custom Column Chooser. Column headers in this Column Chooser display check marks that allow users to select columns. Users can click a custom `Add checked columns to grid` button to display the selected columns in the grid.
 
 <!-- default file list -->
 ## Files to Look At
